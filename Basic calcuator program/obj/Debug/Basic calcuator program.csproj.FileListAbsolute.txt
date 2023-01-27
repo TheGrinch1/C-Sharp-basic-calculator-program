@@ -1,0 +1,8 @@
+C:\Users\garre\Documents\GitHub\C-Sharp-basic-calculator-program\Basic calcuator program\bin\Debug\Basic calcuator program.exe.config
+C:\Users\garre\Documents\GitHub\C-Sharp-basic-calculator-program\Basic calcuator program\bin\Debug\Basic calcuator program.exe
+C:\Users\garre\Documents\GitHub\C-Sharp-basic-calculator-program\Basic calcuator program\bin\Debug\Basic calcuator program.pdb
+C:\Users\garre\Documents\GitHub\C-Sharp-basic-calculator-program\Basic calcuator program\obj\Debug\Basic calcuator program.csproj.AssemblyReference.cache
+C:\Users\garre\Documents\GitHub\C-Sharp-basic-calculator-program\Basic calcuator program\obj\Debug\Basic calcuator program.csproj.SuggestedBindingRedirects.cache
+C:\Users\garre\Documents\GitHub\C-Sharp-basic-calculator-program\Basic calcuator program\obj\Debug\Basic calcuator program.csproj.CoreCompileInputs.cache
+C:\Users\garre\Documents\GitHub\C-Sharp-basic-calculator-program\Basic calcuator program\obj\Debug\Basic calcuator program.exe
+C:\Users\garre\Documents\GitHub\C-Sharp-basic-calculator-program\Basic calcuator program\obj\Debug\Basic calcuator program.pdb
